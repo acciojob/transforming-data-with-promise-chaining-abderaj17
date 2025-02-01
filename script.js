@@ -47,7 +47,7 @@ startBtn.addEventListener('click', ()=>{
 							console.log(err);
 						})
 					})
-				})
+				}) 
 			})
 		})
 	})
